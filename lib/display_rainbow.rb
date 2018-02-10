@@ -5,4 +5,3 @@ def display_rainbow(color)
 end
 
 color = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
-
